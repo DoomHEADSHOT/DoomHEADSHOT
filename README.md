@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🏄‍♂️ 
+
 
 **`Software Engineer`**
 
-I'm an indie full-stack developer , All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a Software Engineering Student , All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/DoomHEADSHOT?tab=followers">
