@@ -60,13 +60,10 @@ I'm a Software Engineering Student , All coding projects are built from the grou
 
 ### 📊 Stats
 
-![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoomHEADSHOT&show_icons=true&theme=gruvbox)
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoomHEADSHOT&show_icons=true&hide=stars&hide_rank=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
-<details>
- <summary><h3>👨‍💻 Malek's Coding Journey</h3></summary>
-   Currently a Software Engineering Student at ESPRIT
   
